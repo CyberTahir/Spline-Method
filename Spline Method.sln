@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Spline Method", "Spline Method\Spline Method.pyproj", "{BCE44DF1-9877-4C2A-875A-730B4ED60627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE44DF1-9877-4C2A-875A-730B4ED60627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE44DF1-9877-4C2A-875A-730B4ED60627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF7AC60-EF7F-4DDF-87D4-08C922585079}
+	EndGlobalSection
+EndGlobal
